@@ -1,2 +1,2 @@
 # aula_bootstrap
-Utilizando Bootstrap
+Utilizando o Bootstrap para criação de um website.
